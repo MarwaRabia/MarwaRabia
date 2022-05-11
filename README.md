@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marwa Rabia</h1>
-<h3 align="center">Data Analyst | Machine Learning</h3>
+<h3 align="center">Machine Learning</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marwa&label=Profile%20views&color=0e75b6&style=flat" alt="marwa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marwa" alt="marwa" /></a> </p>
 
@@ -17,4 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marwa&show_icons=true&title_color=908ef5&locale=en&layout=compact" alt="marwa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwa&show_icons=true&theme=radical&title_color=181b1b&text_color=363a3a&bg_color=07f2a4&cache_seconds=1800&locale=en" alt="marwa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwa&show_icons=true&theme=radical&title_color=f21cae&text_color=09fbfb&bg_color=0a0a0a&hide_border=true&cache_seconds=800&locale=en" alt="marwa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwa&" alt="marwa" /></p>
