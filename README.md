@@ -13,8 +13,8 @@
       <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/></a>
   </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="blank">
-<img src="https://github-profile-trophy.vercel.app/?username=marwarabia" alt="marwarabia" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="blank">
+<img src="https://github-profile-trophy.vercel.app/?username=marwarabia" alt="marwarabia" /></a> </p> -->
 
 - 📫 How to reach me **marwarabia369@gmail.com**
 
