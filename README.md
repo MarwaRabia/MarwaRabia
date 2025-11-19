@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwarabia&label=Profile%20views&color=0e75b6&style=flat" alt="marwarabia" /> </p>
 
  <p>
-    <a href="https://drive.google.com/file/d/1qWIClBzBcxUyOKixirlTMs5T7L8nGZUB/view?usp=sharing" target="blank">
+    <a href="https://drive.google.com/file/d/1qWIClBzBcxUyOKixirlTMs5T7L8nGZUB/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
-    <a href="" target="blank">
+    <a href="https://marwarabia.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/></a>
   </p>
 
